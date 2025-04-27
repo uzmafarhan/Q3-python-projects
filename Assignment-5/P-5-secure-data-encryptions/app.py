@@ -172,7 +172,7 @@ def decrypt_data(encrypted_text, passkey):
 # -----------------------------
 st.set_page_config(page_title="Secure Data Vault", page_icon="🛡️", initial_sidebar_state="collapsed")
 st.title("🛡️Secure Data Encryption System")
-st.caption("Developed by Abdul Rehman")
+st.caption("Developed by uzma farhan")
 
 if not st.session_state.is_logged_in:
     auth_tab = st.radio("Login or Register", ["Login", "Register"], horizontal=True)

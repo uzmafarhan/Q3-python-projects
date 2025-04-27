@@ -150,4 +150,4 @@ else:
 
 # Footer
 st.write("---")
-st.caption("Developed by Abdul Rehman | Built with ❤️ using Streamlit | Secure Passwords Matter! 🔒")
+st.caption("Developed by UZMA FARHAN | Built with ❤️ using Streamlit | Secure Passwords Matter! 🔒")

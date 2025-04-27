@@ -179,7 +179,7 @@ else:
 st.markdown("""
     <hr style='border: 1px solid #ddd;'>
     <div class="footer">
-        <p>Developed by <strong>Abdul Rehman</strong> | 📌 <i>Built with Streamlit & Pint</i></p>
+        <p>Developed by <strong>UZMA FARHAN</strong> | 📌 <i>Built with Streamlit & Pint</i></p>
     </div>
 """, unsafe_allow_html=True)
 # ############################################################################################################
